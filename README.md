@@ -19,8 +19,8 @@
 
 ### Connect with me:
 
-[(./img/linkedin-light.svg)](https://www.linkedin.com/in/bernard-brown98/#gh-light-mode-only)
-[(./img/linkedin-dark.svg)](https://www.linkedin.com/in/bernard-brown98/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/bernard-brown98/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bernard-brown98/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
