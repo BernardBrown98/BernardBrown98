@@ -1,6 +1,6 @@
 # Hi there, My name is Bernard Brown and I'm an inspiring Web Developer!!👋
 
-- 🌱 I’m currently learning React 🤣
+- 🌱 I’m currently learning React
 - 👯 I’m looking for an internship oppurtunity
 - 🥅 2022 Goals: Get job experience / learn MERN stack
 - ⚡ Fun fact: I love rock climbing / basketball / calisthenics
